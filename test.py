@@ -4,3 +4,4 @@ def a(num:int):
     else:
         return 0
 a(3)
+a(5)
